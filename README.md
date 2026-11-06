@@ -32,7 +32,7 @@ Analysis of customer churn patterns in a telecommunications company.
 - Senior citizen churn: 41.68%
 
 ## Dashboard
-dashboard/Customer_Churn_Interactive_Dashboard.html
+Customer_Churn_Interactive_Dashboard.html
 
 ## Conclusion
 The analysis identifies customer groups with higher churn rates
